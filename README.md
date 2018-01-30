@@ -110,11 +110,7 @@ to your overall experience with your development environment.  For instance,
 code-completion conveniently presents all the extension methods available on an
 extended class:
 
-<p>
-  <video height="60%" width="60%" controls="controls" preload="auto" onclick="this.paused ? this.play() : this.pause();">
-    <source type="video/mp4" src="./images/ExtensionMethod.mp4">
-  </video>
-</p>
+![demo](images/ExtensionMethod.mp4)
 
 There's a lot more to the extension manifold including [structural interfaces](#structural-interfaces), which are
 similar to interfaces in the [Go](https://golang.org/) language. We'll cover more later in this guide.
